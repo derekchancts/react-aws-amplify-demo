@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-poketimes-dev-22619-authRole",
+      "UnauthRoleArn": "arn:aws:iam::878661647005:role/amplify-poketimes-dev-22619-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::878661647005:role/amplify-poketimes-dev-22619-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-poketimes-dev-22619-deployment",
+      "UnauthRoleName": "amplify-poketimes-dev-22619-unauthRole",
+      "StackName": "amplify-poketimes-dev-22619",
+      "StackId": "arn:aws:cloudformation:us-east-1:878661647005:stack/amplify-poketimes-dev-22619/4a8f25e0-8297-11eb-abc0-0a77aff5dc71",
+      "AmplifyAppId": "db2hh74scl123"
+    }
+  }
+}
