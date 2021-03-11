@@ -1,0 +1,21 @@
+{
+    "appName": "poketimes",
+    "roleName": "pinpointLambdaRolee7282e55",
+    "cloudformationPolicyName": "cloudformationPolicye7282e55",
+    "cloudWatchPolicyName": "cloudWatchPolicye7282e55",
+    "pinpointPolicyName": "pinpointPolicye7282e55",
+    "authPolicyName": "pinpoint_amplify_e7282e55",
+    "unauthPolicyName": "pinpoint_amplify_e7282e55",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

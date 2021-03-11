@@ -10,6 +10,17 @@
       "StackName": "amplify-poketimes-dev-22619",
       "StackId": "arn:aws:cloudformation:us-east-1:878661647005:stack/amplify-poketimes-dev-22619/4a8f25e0-8297-11eb-abc0-0a77aff5dc71",
       "AmplifyAppId": "db2hh74scl123"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "db2hh74scl123",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "cognito685cc2cd": {}
+      }
     }
   }
 }
